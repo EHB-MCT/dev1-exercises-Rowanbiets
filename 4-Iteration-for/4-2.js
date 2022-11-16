@@ -8,7 +8,7 @@ let height = context.canvas.height;
 draw();
 
 function draw() {
-    context.fillRect(0, 0, width, height);
+
     drawBubbles();
 }
 
